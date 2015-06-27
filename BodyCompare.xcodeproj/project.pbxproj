@@ -15,6 +15,8 @@
 		D79B40FF1B3E443D002E55D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D79B40FD1B3E443D002E55D0 /* LaunchScreen.storyboard */; };
 		D79B410A1B3E443D002E55D0 /* BodyCompareTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79B41091B3E443D002E55D0 /* BodyCompareTests.swift */; };
 		D79B41151B3E443D002E55D0 /* BodyCompareUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79B41141B3E443D002E55D0 /* BodyCompareUITests.swift */; };
+		D79B41231B3E457C002E55D0 /* idealBody.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D79B41221B3E457C002E55D0 /* idealBody.jpeg */; };
+		D79B41251B3E46DC002E55D0 /* ImagePickerViewControllerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79B41241B3E46DC002E55D0 /* ImagePickerViewControllerExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		D79B41101B3E443D002E55D0 /* BodyCompareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BodyCompareUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D79B41141B3E443D002E55D0 /* BodyCompareUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyCompareUITests.swift; sourceTree = "<group>"; };
 		D79B41161B3E443D002E55D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D79B41221B3E457C002E55D0 /* idealBody.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = idealBody.jpeg; sourceTree = "<group>"; };
+		D79B41241B3E46DC002E55D0 /* ImagePickerViewControllerExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePickerViewControllerExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				D79B40F11B3E443D002E55D0 /* AppDelegate.swift */,
 				D79B40F31B3E443D002E55D0 /* ViewController.swift */,
 				D79B40F51B3E443D002E55D0 /* Main.storyboard */,
+				D79B41241B3E46DC002E55D0 /* ImagePickerViewControllerExample.swift */,
+				D79B41221B3E457C002E55D0 /* idealBody.jpeg */,
 				D79B40FB1B3E443D002E55D0 /* Assets.xcassets */,
 				D79B40FD1B3E443D002E55D0 /* LaunchScreen.storyboard */,
 				D79B41001B3E443D002E55D0 /* Info.plist */,
@@ -234,6 +240,7 @@
 				D79B40FF1B3E443D002E55D0 /* LaunchScreen.storyboard in Resources */,
 				D79B40FC1B3E443D002E55D0 /* Assets.xcassets in Resources */,
 				D79B40F71B3E443D002E55D0 /* Main.storyboard in Resources */,
+				D79B41231B3E457C002E55D0 /* idealBody.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D79B40F41B3E443D002E55D0 /* ViewController.swift in Sources */,
+				D79B41251B3E46DC002E55D0 /* ImagePickerViewControllerExample.swift in Sources */,
 				D79B40F21B3E443D002E55D0 /* AppDelegate.swift in Sources */,
 				D79B40FA1B3E443D002E55D0 /* BodyCompare.xcdatamodeld in Sources */,
 			);
