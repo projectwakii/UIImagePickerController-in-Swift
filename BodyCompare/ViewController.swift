@@ -72,6 +72,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         self.presentViewController(optionMenu, animated: true, completion: nil)
         
         /*
+        just adding extra text for fun
         */
     }
     
